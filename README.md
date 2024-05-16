@@ -1,11 +1,11 @@
-## Brandon Chan
-### Part II Software Engineering Student at The University of Auckland
 ![Part II Software Engineering Student at The University of Auckland](https://media.licdn.com/dms/image/D5616AQGDhyCChI5M2A/profile-displaybackgroundimage-shrink_350_1400/0/1709460120711?e=1721260800&v=beta&t=UrPUcMBI4GQe2FaPu6PLMCHnEyzGvP9OYfj_XT-W-94)
 
-Passionate in helping other people and solving problems with creative and efficient ideas. Eager to learn new skills and work on challenges persistently to their completion. Seeking the opportunity for an internship to put my knowledge and motivation to practice, further develop soft skills, and gain industry experience.
+# Brandon Chan
+### Part II Software Engineering Student at The University of Auckland
 
-I love to Learn, Create and Do things.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/br-Chan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-sh-chan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/br-chan)  
 
+I love to **Learn**, **Create** and **Do** things. I'm searching for a software engineering internship that's both mentally stimulating and rewarding for both me and the community.
 
 ## LEARN
 <details>
@@ -50,7 +50,7 @@ I love to Learn, Create and Do things.
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/br-Chan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-sh-chan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/br-chan)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=br-Chan)  
 
