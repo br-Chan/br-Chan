@@ -5,24 +5,24 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/br-Chan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-sh-chan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/br-chan)  
 
-I love to **Learn**, **Create** and **Do** things. I'm searching for a software engineering internship that's both mentally stimulating and rewarding for both me and the community.
+I love to **Learn**, **Create** and **Do** things. I'm searching for a software engineering internship that's mentally stimulating and rewarding for both me and the community.
 
 ## LEARN
 <details>
 <summary>LANGUAGES AND TOOLS</summary>
-  
-| Learned       | Learning      |
-| ------------- |:-------------:|
-| Java      | Everything on the left |
-| C/C++      | JavaScript      |
-| MATLAB | CSS      |
-| HTML | Node.js      |
-|  | React      |
-|  | Next.js      |
+
+  | Learned       | Learning      |
+  | ------------- |:-------------:|
+  | Java      | Everything on the left :) |
+  | C/C++      | JavaScript      |
+  | MATLAB | CSS      |
+  | HTML | Node.js      |
+  | Git | React      |
+  |  | Next.js      |
 </details>
 <details>
 <summary>CURRENT UNIVERSITY COURSES</summary>
-  
+
 - SOFTENG 281 | Object-Oriented Programming
 - SOFTENG 282 | Software Engineering Theory
 - COMPSYS 201 | Fundamentals of Computer Engineering
@@ -33,20 +33,40 @@ I love to **Learn**, **Create** and **Do** things. I'm searching for a software 
 <details open>
 <summary>PROJECTS</summary>
 
+  - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
+  - Venue Hire System (TODO: add link)
+  - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
+  - BTLSHPS Game (TODO: add to GitHub)
+  - Image Fingerprint Function (TODO: add to GitHub)
+  
+  Workshops/Tutorials:
+  - [Financial Dashboard in Next.js](https://github.com/br-Chan/Financial-Dashboard-Next.js "A simplified financial dashboard full-stack web application")
+  - [Tic Tac Toe in React](https://github.com/br-Chan/TicTacToe-React "Tic Tac Toe with turn rewinding")
+  - Contacts App with WDCC Web Development workshop
   
 </details>
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
+  - ODD OR EVEN Game (TODO: add link)
+  - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project")
   
 </details>
 <details>
-<summary>IDEAS</summary>
+<summary>PLANS & IDEAS</summary>
+
+  - Personal website to build an interactive version of this page
+  
+  Random project ideas:
+  - Interactive Königsberg Bridges Map - build your own bridges and try solve it
+  - Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
+  - Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
+  - Create your own dictionary entry - input your own fake word, its defintion and pronounciation to be formatted into a dictionary entry to share with friends
+  - Web app for tracking internships
+  - Random trolley problem generator
+</details>
 
 ## DO
-
-
-
 
 
 
