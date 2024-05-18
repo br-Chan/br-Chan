@@ -33,11 +33,12 @@ I love to **Learn**, **Create** and **Do** things. I'm searching for a software 
 <details open>
 <summary>PROJECTS</summary>
 
+  - Odds and Evens Game
   - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - Venue Hire System (TODO: add link)
+  - Venue Hire System
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
-  - BTLSHPS Game (TODO: add to GitHub)
-  - Image Fingerprint Function (TODO: add to GitHub)
+  - BTLSHPS Game
+  - Image Fingerprint Function
   
   Workshops/Tutorials:
   - [Financial Dashboard in Next.js](https://github.com/br-Chan/Financial-Dashboard-Next.js "A simplified financial dashboard full-stack web application")
@@ -48,7 +49,7 @@ I love to **Learn**, **Create** and **Do** things. I'm searching for a software 
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
-  - ODD OR EVEN Game (TODO: add link)
+  - Map Routing Application
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project")
   
 </details>
