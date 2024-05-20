@@ -5,9 +5,9 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/br-Chan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-sh-chan/)
 
-I love to **Learn**, **Create** and **Do** things. I'm searching for a software engineering internship that's mentally stimulating and rewarding for both me and the community.
+I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. I'm searching for a software engineering internship that's mentally stimulating and rewarding for both me and the community.
 
-## LEARN
+## LEARNING
 <details>
 <summary>LANGUAGES AND TOOLS</summary>
 
@@ -29,7 +29,7 @@ I love to **Learn**, **Create** and **Do** things. I'm searching for a software 
 - ENGSCI 211 | Mathematical Modelling 2
 </details>
 
-## CREATE
+## CREATING
 <details open>
 <summary>PROJECTS</summary>
 
@@ -67,7 +67,7 @@ I love to **Learn**, **Create** and **Do** things. I'm searching for a software 
   - Random trolley problem generator
 </details>
 
-## DO
+## DOING
 
 
 
