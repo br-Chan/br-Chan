@@ -33,17 +33,17 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <details open>
 <summary>PROJECTS</summary>
 
-  - Odds and Evens Game
-  - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - Venue Hire System
+  - Odds and Evens Game | Java
+  - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
+  - Venue Hire System | Java
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
-  - BTLSHPS Game
-  - Image Fingerprint Function
+  - BTLSHPS Game | C
+  - Image Fingerprint Function | MATLAB
   
   Workshops/Tutorials:
   - [Financial Dashboard in Next.js](https://github.com/br-Chan/Financial-Dashboard-Next.js "A simplified financial dashboard full-stack web application")
-  - [Tic Tac Toe in React](https://github.com/br-Chan/TicTacToe-React "Tic Tac Toe with turn rewinding")
-  - Contacts App with WDCC Web Development workshop
+  - [Tic Tac Toe in React](https://github.com/br-Chan/TicTacToe-React "Tic Tac Toe with turn rewinding") | React
+  - Contacts App with WDCC Web Development workshop | MERN
   
 </details>
 <details open>
@@ -59,6 +59,7 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
   - Personal website to build an interactive version of this page
   
   Random project ideas:
+  - NYT Game Ranker - takes the NYT game stats (e.g. Wordle, Mini, Strands,...) and calculates your rank
   - Interactive Königsberg Bridges Map - build your own bridges and try solve it
   - Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
   - Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
