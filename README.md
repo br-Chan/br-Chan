@@ -34,7 +34,7 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <summary>PROJECTS</summary>
 
   - Odds and Evens Game | Java
-  - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
+  - [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.png' alt='CustomisableLOTTOGenerator' height='250'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")[Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing 
   - Venue Hire System | Java
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
   - BTLSHPS Game | C
