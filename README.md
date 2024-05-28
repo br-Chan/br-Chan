@@ -34,13 +34,13 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <summary>PROJECTS</summary>
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-
+  - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - Odds and Evens Game | Java
   - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
   - Venue Hire System | Java
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
   - BTLSHPS Game | C
-  - Image Fingerprint Function | MATLAB
+  - [Image Fingerprint Function](https://github.com/br-Chan/Image-Fingerprinting-Function) "HOVER Text Here" | MATLAB
   
   Workshops/Tutorials:
   - [Financial Dashboard in Next.js](https://github.com/br-Chan/Financial-Dashboard-Next.js "A simplified financial dashboard full-stack web application")
@@ -51,7 +51,7 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
-  - Map Routing Application
+  - World Map Routing System
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project")
   
 </details>
@@ -61,13 +61,14 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
   - Personal website to build an interactive version of this page
   
   Random project ideas:
-  - NYT Game Ranker - takes the NYT game stats (e.g. Wordle, Mini, Strands,...) and calculates your rank
-  - Interactive Königsberg Bridges Map - build your own bridges and try solve it
-  - Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
-  - Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
-  - Create your own dictionary entry - input your own fake word, its defintion and pronounciation to be formatted into a dictionary entry to share with friends
-  - Web app for tracking internships
-  - Random trolley problem generator
+  - Java (utilising graphs): Space Home network game, turn devices on and off until you reach the required set of device states (can have multiple levels with increasing difficulty, can have devices with simple on/off state, devices only interactable via other 'master' devices, devices with more than one state (e.g. LOW, MEDIUM, HIGH) (devices are space themed, similar to those in the Space Home Commander System project)
+  - Web app (JavaScript): NYT Game Ranker - takes the NYT game stats (e.g. Wordle, Mini, Strands,...) and calculates your rank
+  - Web app: Interactive Königsberg Bridges Map - build your own bridges and try solve it
+  - Java/C/other: Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
+  - Web app: Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
+  - Web app: Create your own dictionary entry - input your own fake word, its defintion and pronounciation to be formatted into a dictionary entry to share with friends
+  - Web app: tracking internships
+  - Java: Random trolley problem generator
 </details>
 
 ## DOING
