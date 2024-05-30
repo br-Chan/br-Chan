@@ -51,11 +51,12 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
+  - [Rankle](https://github.com/br-Chan/Rankle)
   - World Map Routing System
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project")
   
 </details>
-<details>
+<details open>
 <summary>PLANS & IDEAS</summary>
 
   - Personal website to build an interactive version of this page
@@ -69,6 +70,7 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
   - Web app: Create your own dictionary entry - input your own fake word, its defintion and pronounciation to be formatted into a dictionary entry to share with friends
   - Web app: tracking internships
   - Java: Random trolley problem generator
+  - Spotify random song recommender - create a database of songs I like, and a single button picks one from that list
 </details>
 
 ## DOING
