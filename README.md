@@ -35,12 +35,13 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
+  - World Map Routing System | Java
   - Odds and Evens Game | Java
   - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
   - Venue Hire System | Java
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
   - BTLSHPS Game | C
-  - [Image Fingerprint Function](https://github.com/br-Chan/Image-Fingerprinting-Function) "HOVER Text Here" | MATLAB
+  - [Image Fingerprint Function](https://github.com/br-Chan/Image-Fingerprinting-Function "Compares the similarity of images") | MATLAB
   
   Workshops/Tutorials:
   - [Financial Dashboard in Next.js](https://github.com/br-Chan/Financial-Dashboard-Next.js "A simplified financial dashboard full-stack web application")
@@ -51,9 +52,8 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
-  - [Rankle](https://github.com/br-Chan/Rankle)
-  - World Map Routing System
-  - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project")
+  - [Rankle](https://github.com/br-Chan/Rankle) | JavaScript
+  - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
   
 </details>
 <details open>
