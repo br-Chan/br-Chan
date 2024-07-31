@@ -1,4 +1,4 @@
-![Part II Software Engineering Student at The University of Auckland](https://media.licdn.com/dms/image/D5616AQGDhyCChI5M2A/profile-displaybackgroundimage-shrink_350_1400/0/1709460120711?e=1721260800&v=beta&t=UrPUcMBI4GQe2FaPu6PLMCHnEyzGvP9OYfj_XT-W-94)
+![Part II Software Engineering Student at The University of Auckland]([https://media.licdn.com/dms/image/D5616AQGDhyCChI5M2A/profile-displaybackgroundimage-shrink_350_1400/0/1709460120711?e=1721260800&v=beta&t=UrPUcMBI4GQe2FaPu6PLMCHnEyzGvP9OYfj_XT-W-94](https://media.licdn.com/dms/image/D5616AQGDhyCChI5M2A/profile-displaybackgroundimage-shrink_350_1400/0/1709460120711?e=1727913600&v=beta&t=EHykgjDub-osnFBUuy5C2K3WrvcgWJL5FBanyzViKI4))
 
 # Brandon Chan
 ### Part II Software Engineering Student at The University of Auckland
@@ -17,16 +17,16 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
   | C/C++      | JavaScript      |
   | MATLAB | CSS      |
   | HTML | Node.js      |
-  | Git | React      |
-  |  | Next.js      |
+  | Git |   Next.js    |
+  | React |       |
 </details>
 <details>
 <summary>CURRENT UNIVERSITY COURSES</summary>
 
-- SOFTENG 281 | Object-Oriented Programming
-- SOFTENG 282 | Software Engineering Theory
-- COMPSYS 201 | Fundamentals of Computer Engineering
-- ENGSCI 211 | Mathematical Modelling 2
+- ENGGEN 204 | Professional Skills and Communication
+- SOFTENG 206 | Software Engineering Design 1
+- SOFTENG 283 | Software Quality Assurance
+- SOFTENG 284 | Data Structures and Algorithms
 </details>
 
 ## CREATING
@@ -34,6 +34,7 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <summary>PROJECTS</summary>
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
+  - [Rankle](https://github.com/br-Chan/Rankle) | React (coming soon: Next.js and databases!)
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - World Map Routing System | Java
   - Odds and Evens Game | Java
@@ -52,13 +53,13 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
-  - [Rankle](https://github.com/br-Chan/Rankle) | JavaScript
-  - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
+  - Rankle (see above)
   
 </details>
 <details open>
 <summary>PLANS & IDEAS</summary>
-
+  
+  - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
   - Personal website to build an interactive version of this page
   
   Random project ideas:
