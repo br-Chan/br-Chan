@@ -1,9 +1,10 @@
-![Part II Software Engineering Student at The University of Auckland]([https://media.licdn.com/dms/image/D5616AQGDhyCChI5M2A/profile-displaybackgroundimage-shrink_350_1400/0/1709460120711?e=1721260800&v=beta&t=UrPUcMBI4GQe2FaPu6PLMCHnEyzGvP9OYfj_XT-W-94](https://media.licdn.com/dms/image/D5616AQGDhyCChI5M2A/profile-displaybackgroundimage-shrink_350_1400/0/1709460120711?e=1727913600&v=beta&t=EHykgjDub-osnFBUuy5C2K3WrvcgWJL5FBanyzViKI4))
+![LinkedInTongariroBanner](https://github.com/user-attachments/assets/054f4ccb-96e3-497b-a0f8-8de11e46ff1b)
 
 # Brandon Chan
 ### Part II Software Engineering Student at The University of Auckland
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/br-Chan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-sh-chan/)
+![linkedinIcon](https://github.com/user-attachments/assets/46668283-c5a9-4f50-9d70-d46be29bfa16)
 
 I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. I'm searching for a software engineering internship that's mentally stimulating and rewarding for both me and the community.
 
@@ -11,14 +12,17 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <details>
 <summary>LANGUAGES AND TOOLS</summary>
 
-  | Learned       | Learning      |
-  | ------------- |:-------------:|
-  | Java      | Everything on the left :) |
-  | C/C++      | JavaScript      |
-  | MATLAB | CSS      |
-  | HTML | Node.js      |
-  | Git |   Next.js    |
-  | React |       |
+  | Learned       | Learning                  |
+  | ------------- |:-------------------------:|
+  | Java          | Everything on the left :) |
+  | C/C++         | Firestore (Firebase)      |
+  | MATLAB        |       |
+  | JavaScript    |       |
+  | TypeScript    |       |
+  | React         |       |
+  | Next.js       |       |
+  | Tailwind CSS  |       |
+
 </details>
 <details>
 <summary>CURRENT UNIVERSITY COURSES</summary>
@@ -34,7 +38,7 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 <summary>PROJECTS</summary>
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - [Rankle](https://github.com/br-Chan/Rankle) | React (coming soon: Next.js and databases!)
+  - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - World Map Routing System | Java
   - Odds and Evens Game | Java
@@ -58,25 +62,34 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 </details>
 <details open>
 <summary>PLANS & IDEAS</summary>
-  
+
+  - "Jabberwockle" - Wordle, but the word to guess has some of its letters swapped out
+  - "APIary" - utilising as many APIs out there into a modular playground where you can play around with different APIs and have them interact with each other
+  - Personal website to build an interactive version of this page (with a modular design)
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
-  - Personal website to build an interactive version of this page
+  
   
   Random project ideas:
-  - Java (utilising graphs): Space Home network game, turn devices on and off until you reach the required set of device states (can have multiple levels with increasing difficulty, can have devices with simple on/off state, devices only interactable via other 'master' devices, devices with more than one state (e.g. LOW, MEDIUM, HIGH) (devices are space themed, similar to those in the Space Home Commander System project)
-  - Web app (JavaScript): NYT Game Ranker - takes the NYT game stats (e.g. Wordle, Mini, Strands,...) and calculates your rank
+  - ~~Web app (JavaScript): NYT Game Ranker - takes the NYT game stats (e.g. Wordle, Mini, Strands,...) and calculates your rank~~ **Now a current project!**
   - Web app: Interactive Königsberg Bridges Map - build your own bridges and try solve it
   - Java/C/other: Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
   - Web app: Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
   - Web app: Create your own dictionary entry - input your own fake word, its defintion and pronounciation to be formatted into a dictionary entry to share with friends
   - Web app: tracking internships
+  - Java (utilising graphs): Space Home network game, turn devices on and off until you reach the required set of device states (can have multiple levels with increasing difficulty, can have devices with simple on/off state, devices only interactable via other 'master' devices, devices with more than one state (e.g. LOW, MEDIUM, HIGH) (devices are space themed, similar to those in the Space Home Commander System project)
   - Java: Random trolley problem generator
   - Spotify random song recommender - create a database of songs I like, and a single button picks one from that list
 </details>
 
 ## DOING
 
-
+Typing:
+- [Monkeytype Profile](https://monkeytype.com/profile/DvorakTurkey)
+- [Nitro Type Profile](https://www.nitrotype.com/racer/allors4612)
+- Qwerty: 118 avg wpm
+- Dvorak: 92 avg wpm
+- Colemak: 30 avg wpm
+- Workman: -- avg wpm
 
 
 
