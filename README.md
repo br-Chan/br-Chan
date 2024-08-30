@@ -4,7 +4,6 @@
 ### Part II Software Engineering Student at The University of Auckland
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/br-Chan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-sh-chan/)
-![linkedinIcon](https://github.com/user-attachments/assets/46668283-c5a9-4f50-9d70-d46be29bfa16)
 
 I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. I'm searching for a software engineering internship that's mentally stimulating and rewarding for both me and the community.
 
@@ -91,7 +90,9 @@ Typing:
 - Colemak: 30 avg wpm
 - Workman: -- avg wpm
 
-
+Hackathons:
+- KiwiJam 2024
+- [WDCCxSESA Hackathon 2024](https://github.com/ExceptionHandlersUOA/SpaceshipCrewGame) | Next.js, TypeScript
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=br-Chan)  
 
