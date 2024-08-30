@@ -39,10 +39,10 @@ I love **Learning**, **Creating** and **Doing** things - usually all 3 at once. 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
   - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
-  - World Map Routing System | Java
-  - Odds and Evens Game | Java
+  - [World Map Routing System](https://github.com/br-Chan/World-Map-Routing-System) | Java
+  - [Odds and Evens Game](https://github.com/br-Chan/OddsAndEvens-Game-with-AI) | Java
   - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
-  - Venue Hire System | Java
+  - [Venue Hire System](https://github.com/br-Chan/Venue-Hire-System) | Java
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
   - BTLSHPS Game | C
   - [Image Fingerprint Function](https://github.com/br-Chan/Image-Fingerprinting-Function "Compares the similarity of images") | MATLAB
