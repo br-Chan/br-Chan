@@ -94,5 +94,7 @@ Hackathons:
 - KiwiJam 2024
 - [WDCCxSESA Hackathon 2024](https://github.com/ExceptionHandlersUOA/SpaceshipCrewGame) | Next.js, TypeScript
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br-Chan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=br-Chan)  
 
