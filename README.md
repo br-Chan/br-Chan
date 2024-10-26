@@ -91,8 +91,10 @@ Typing:
 - Workman: -- avg wpm
 
 Hackathons:
-- KiwiJam 2024
+- KiwiJam 2024 | Godot
 - [WDCCxSESA Hackathon 2024](https://github.com/ExceptionHandlersUOA/SpaceshipCrewGame) | Next.js, TypeScript
+
+Music: [personal music repository](https://github.com/br-Chan/Personal-Music-Box)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br-Chan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
