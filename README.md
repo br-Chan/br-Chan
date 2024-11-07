@@ -37,6 +37,7 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <summary>PROJECTS</summary>
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
+  - [The Missing Dollar Mystery private investigation game](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) | Java, JavaFX, OpenAI's GPT Model
   - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - [World Map Routing System](https://github.com/br-Chan/World-Map-Routing-System) | Java
