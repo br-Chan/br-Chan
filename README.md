@@ -1,4 +1,4 @@
-![LinkedInTongariroBanner](https://github.com/user-attachments/assets/054f4ccb-96e3-497b-a0f8-8de11e46ff1b)
+<img src='https://media.licdn.com/dms/image/v2/D5616AQFViyCcQzqvVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730970055857?e=1736380800&v=beta&t=-XVbKXCbI1J9nH_g0wai_vA0IUa1m8ls0vVtvwHY318'>
 
 # Brandon Chan
 ### Part II Software Engineering Student at The University of Auckland
