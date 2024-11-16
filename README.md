@@ -37,7 +37,7 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <summary>PROJECTS</summary>
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - [The Missing Dollar Mystery private investigation game](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) | Java, JavaFX, OpenAI's GPT Model
+  - [The Missing Dollar Mystery private investigation game](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) | Java, JavaFX, OpenAI API
   - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - [World Map Routing System](https://github.com/br-Chan/World-Map-Routing-System) | Java
@@ -78,7 +78,7 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   - Web app: tracking internships
   - Java (utilising graphs): Space Home network game, turn devices on and off until you reach the required set of device states (can have multiple levels with increasing difficulty, can have devices with simple on/off state, devices only interactable via other 'master' devices, devices with more than one state (e.g. LOW, MEDIUM, HIGH) (devices are space themed, similar to those in the Space Home Commander System project)
   - Java: Random trolley problem generator
-  - Spotify random song recommender - create a database of songs I like, and a single button picks one from that list
+  - Spotify random song recommender - a way to use the Spotify Web API
 </details>
 
 ## DOING
@@ -86,9 +86,9 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 Typing:
 - [Monkeytype Profile](https://monkeytype.com/profile/DvorakTurkey)
 - [Nitro Type Profile](https://www.nitrotype.com/racer/allors4612)
-- Qwerty: 118 avg wpm
-- Dvorak: 92 avg wpm
-- Colemak: 30 avg wpm
+- Qwerty: 119 avg wpm
+- Dvorak: 90 avg wpm
+- Colemak: 31 avg wpm
 - Workman: -- avg wpm
 
 Hackathons:
