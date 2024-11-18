@@ -3,7 +3,9 @@
 # Brandon Chan
 ### Part II Software Engineering Student at The University of Auckland
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/br-Chan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-sh-chan/)
+[<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg' alt='github' height='40'>](https://github.com/br-Chan)
+[<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt='linkedin' height='40' />](https://www.linkedin.com/in/brandon-sh-chan/)
+[<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt='youtube' height='40' />](https://www.youtube.com/@br-Chan-g5l)
 
 I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doing) things - usually all 3 at once.
 
@@ -96,6 +98,8 @@ Hackathons:
 - [WDCCxSESA Hackathon 2024](https://github.com/ExceptionHandlersUOA/SpaceshipCrewGame) | Next.js, TypeScript
 
 Music: [personal music repository](https://github.com/br-Chan/Personal-Music-Box)
+
+[<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" alt='twitter' height='40' />](https://www.youtube.com/watch?v=xvFZjo5PgG0) (warning: do not click)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br-Chan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
