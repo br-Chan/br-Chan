@@ -16,8 +16,8 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   | Learned       | Learning                  |
   | ------------- |:-------------------------:|
   | Java          | Everything on the left :) |
-  | C/C++         | Firestore (Firebase)      |
-  | MATLAB        |       |
+  | C/C++         | Angular                   |
+  | MATLAB        | Firestore (Firebase)      |
   | JavaScript    |       |
   | TypeScript    |       |
   | React         |       |
