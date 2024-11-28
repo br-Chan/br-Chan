@@ -66,8 +66,8 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <summary>PLANS & IDEAS</summary>
 
   - "Jabberwockle" - Wordle, but the word to guess has some of its letters swapped out
-  - "APIary" - utilising as many APIs out there into a modular playground where you can play around with different APIs and have them interact with each other
-  - Personal website to build an interactive version of this page (with a modular design)
+  - "APIary" - utilise many different APIs and have them interact with each other
+  - Personal website to build an interactive version of this page
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
   
   
@@ -92,6 +92,9 @@ Typing:
 - Dvorak: 90 avg wpm
 - Colemak: 31 avg wpm
 - Workman: -- avg wpm
+
+The Battle of Polytopia:
+- In-game ELO: 1500
 
 Hackathons:
 - KiwiJam 2024 | Godot
