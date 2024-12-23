@@ -62,7 +62,7 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   - Rankle (see above)
   
 </details>
-<details open>
+<details>
 <summary>PLANS & IDEAS</summary>
 
   - "Jabberwockle" - Wordle, but the word to guess has some of its letters swapped out
