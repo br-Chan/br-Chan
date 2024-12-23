@@ -18,8 +18,8 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   | Java          | Everything on the left :) |
   | C/C++         | Angular                   |
   | MATLAB        | Firestore (Firebase)      |
-  | JavaScript    |       |
-  | TypeScript    |       |
+  | JavaScript    | PostgreSQL                |
+  | TypeScript    | MySQL                     |
   | React         |       |
   | Next.js       |       |
   | Tailwind CSS  |       |
@@ -66,7 +66,6 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <summary>PLANS & IDEAS</summary>
 
   - "Jabberwockle" - Wordle, but the word to guess has some of its letters swapped out
-  - "APIary" - utilise many different APIs and have them interact with each other
   - Personal website to build an interactive version of this page
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
   
@@ -76,9 +75,6 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   - Web app: Interactive Königsberg Bridges Map - build your own bridges and try solve it
   - Java/C/other: Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
   - Web app: Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
-  - Web app: Create your own dictionary entry - input your own fake word, its defintion and pronounciation to be formatted into a dictionary entry to share with friends
-  - Web app: tracking internships
-  - Java (utilising graphs): Space Home network game, turn devices on and off until you reach the required set of device states (can have multiple levels with increasing difficulty, can have devices with simple on/off state, devices only interactable via other 'master' devices, devices with more than one state (e.g. LOW, MEDIUM, HIGH) (devices are space themed, similar to those in the Space Home Commander System project)
   - Java: Random trolley problem generator
   - Spotify random song recommender - a way to use the Spotify Web API
 </details>
