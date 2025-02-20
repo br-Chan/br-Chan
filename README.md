@@ -1,7 +1,7 @@
-<img src='https://media.licdn.com/dms/image/v2/D5616AQFViyCcQzqvVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730970055857?e=1736380800&v=beta&t=-XVbKXCbI1J9nH_g0wai_vA0IUa1m8ls0vVtvwHY318'>
+<img src='https://media.licdn.com/dms/image/v2/D5616AQFViyCcQzqvVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730970055857?e=1745452800&v=beta&t=ZZvNXbHcdw6gREoquQVTjgY9pcHfQCVBfpETrCksMU8'>
 
 # Brandon Chan
-### Part II Software Engineering Student at The University of Auckland
+### Penultimate Software Engineering Student at The University of Auckland
 
 [<img src='https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg' alt='github' height='40'>](https://github.com/br-Chan)
 [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt='linkedin' height='40' />](https://www.linkedin.com/in/brandon-sh-chan/)
@@ -16,22 +16,24 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   | Learned       | Learning                  |
   | ------------- |:-------------------------:|
   | Java          | Everything on the left :) |
-  | C/C++         | Angular                   |
-  | MATLAB        | Firestore (Firebase)      |
-  | JavaScript    | PostgreSQL                |
-  | TypeScript    | MySQL                     |
+  | C/C++         | Vue                       |
+  | MATLAB        | SQL                       |
+  | JavaScript    |       |
+  | TypeScript    |       |
   | React         |       |
   | Next.js       |       |
   | Tailwind CSS  |       |
+  | Angular       |       |
+  | Firebase      |       |
 
 </details>
 <details>
 <summary>CURRENT UNIVERSITY COURSES</summary>
 
-- ENGGEN 204 | Professional Skills and Communication
-- SOFTENG 206 | Software Engineering Design 1
-- SOFTENG 283 | Software Quality Assurance
-- SOFTENG 284 | Data Structures and Algorithms
+- ENGGEN 303 | Innovation and Business Cases
+- SOFTENG 351 | Fundamentals of Database Systems
+- SOFTENG 370 | Operating Systems
+- SOFTENG 373 | Computer Graphics and Image Processing
 </details>
 
 ## CREATING
@@ -39,7 +41,7 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <summary>PROJECTS</summary>
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - [The Missing Dollar Mystery private investigation game](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) | Java, JavaFX, OpenAI API
+  - [The Missing Dollar Mystery](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) (a private investigation game) | Java, JavaFX, OpenAI API
   - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - [World Map Routing System](https://github.com/br-Chan/World-Map-Routing-System) | Java
