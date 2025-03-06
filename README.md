@@ -41,8 +41,9 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <summary>PROJECTS</summary>
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - [The Missing Dollar Mystery](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) (a private investigation game) | Java, JavaFX, OpenAI API
+  - [Impossible Puzzles](https://github.com/br-Chan/Impossible-Puzzles) | Vue, TypeScript, CSS, HTML
   - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
+  - [The Missing Dollar Mystery](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) (a private investigation game) | Java, JavaFX, OpenAI API
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - [World Map Routing System](https://github.com/br-Chan/World-Map-Routing-System) | Java
   - [Odds and Evens Game](https://github.com/br-Chan/OddsAndEvens-Game-with-AI) | Java
@@ -62,19 +63,21 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <summary>CURRENT PROJECTS</summary>
 
   - Rankle (see above)
+  - Impossible Puzzles (see above)
   
 </details>
 <details>
 <summary>PLANS & IDEAS</summary>
 
+  - Repository to keep track of solved Leetcode/Hackerrank problems
   - "Jabberwockle" - Wordle, but the word to guess has some of its letters swapped out
   - Personal website to build an interactive version of this page
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
   
   
   Random project ideas:
-  - ~~Web app (JavaScript): NYT Game Ranker - takes the NYT game stats (e.g. Wordle, Mini, Strands,...) and calculates your rank~~ **Now a current project!**
-  - Web app: Interactive Königsberg Bridges Map - build your own bridges and try solve it
+  - ~~Web app (JavaScript): NYT Game Ranker - takes the NYT game stats (e.g. Wordle, Mini, Strands,...) and calculates your rank~~ **Now [Rankle](https://github.com/br-Chan/Rankle)!**
+  - ~~Web app: Interactive Königsberg Bridges Map - build your own bridges and try solve it~~ **Now [Impossible Puzzles](https://github.com/br-Chan/Impossible-Puzzles)!**
   - Java/C/other: Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
   - Web app: Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
   - Java: Random trolley problem generator
