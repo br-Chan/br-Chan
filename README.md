@@ -40,16 +40,19 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <details open>
 <summary>PROJECTS</summary>
 
-[<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - [Impossible Puzzles](https://github.com/br-Chan/Impossible-Puzzles) | Vue, TypeScript, CSS, HTML
   - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
+  - [Impossible Puzzles](https://github.com/br-Chan/Impossible-Puzzles) | Vue, TypeScript, CSS, HTML
   - [The Missing Dollar Mystery](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) (a private investigation game) | Java, JavaFX, OpenAI API
+
+[![The Missing Dollar Mystery](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dtjx5raeqHC4)](https://www.youtube.com/watch?v=tjx5raeqHC4)
+  - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
+
+[<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
   - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - [World Map Routing System](https://github.com/br-Chan/World-Map-Routing-System) | Java
   - [Odds and Evens Game](https://github.com/br-Chan/OddsAndEvens-Game-with-AI) | Java
   - [Venue Hire System](https://github.com/br-Chan/Venue-Hire-System) | Java
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
-  - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
   - BTLSHPS Game | C
   - [Image Fingerprint Function](https://github.com/br-Chan/Image-Fingerprinting-Function "Compares the similarity of images") | MATLAB
   
