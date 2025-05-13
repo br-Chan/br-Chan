@@ -1,4 +1,4 @@
-<img src='https://media.licdn.com/dms/image/v2/D5616AQFViyCcQzqvVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730970055857?e=1745452800&v=beta&t=ZZvNXbHcdw6gREoquQVTjgY9pcHfQCVBfpETrCksMU8'>
+<img src='https://media.licdn.com/dms/image/v2/D5616AQFViyCcQzqvVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730970055857?e=1752710400&v=beta&t=tKu9OSKADBqmZoN_CG-TERnccqrgmi3NBoxvYSh09NM'>
 
 # Brandon Chan
 ### Penultimate Software Engineering Student at The University of Auckland
