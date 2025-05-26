@@ -48,18 +48,12 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   - [Customisable LOTTO Generator](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers") | Java, Java Swing
 
 [<img src='https://github.com/br-Chan/br-Chan/blob/main/CustomisableLOTTOGenerator.jpg' alt='CustomisableLOTTOGenerator' height='150'>](https://github.com/br-Chan/Customisable-LOTTO-Generator "GUI Java application to randomly generate personalised Lottery numbers")
-  - Space Commander Revision Series: [Space Home Commander System](https://github.com/br-Chan/Space-Home-Commander-System) [Space Mission Planner](https://github.com/br-Chan/Space-Mission-Planner)
   - [World Map Routing System](https://github.com/br-Chan/World-Map-Routing-System) | Java
   - [Odds and Evens Game](https://github.com/br-Chan/OddsAndEvens-Game-with-AI) | Java
   - [Venue Hire System](https://github.com/br-Chan/Venue-Hire-System) | Java
   - [Fibonacci Sum Calculator](https://github.com/br-Chan/FibonacciSum-SE282-2024 "CLI application for Assignment 2 of SOFTENG 282 - Software Engineering Theory")
   - BTLSHPS Game | C
   - [Image Fingerprint Function](https://github.com/br-Chan/Image-Fingerprinting-Function "Compares the similarity of images") | MATLAB
-  
-  Workshops/Tutorials:
-  - [Financial Dashboard in Next.js](https://github.com/br-Chan/Financial-Dashboard-Next.js "A simplified financial dashboard full-stack web application")
-  - [Tic Tac Toe in React](https://github.com/br-Chan/TicTacToe-React "Tic Tac Toe with turn rewinding") | React
-  - Contacts App with WDCC Web Development workshop | MERN
   
 </details>
 <details open>
@@ -100,11 +94,11 @@ Typing:
 The Battle of Polytopia:
 - In-game ELO: 1500
 
-Hackathons:
-- KiwiJam 2024 | Godot
-- [WDCCxSESA Hackathon 2024](https://github.com/ExceptionHandlersUOA/SpaceshipCrewGame) | Next.js, TypeScript
+WDCC: I'm a software developer in a software project at WDCC! Check out what we're up to [here](https://github.com/UoaWDCC/uabc-web).
 
-Music: [personal music repository](https://github.com/br-Chan/Personal-Music-Box)
+Hackathons:
+- [KiwiJam 2024](https://hoverth.itch.io/your-winchester-mystery-home) | Godot (note: PLEASE don't try this game, I think all of us who worked on this will agree it will give you a heart attack)
+- [WDCCxSESA Hackathon 2024](https://github.com/ExceptionHandlersUOA/SpaceshipCrewGame) | Next.js, TypeScript
 
 [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" alt='twitter' height='40' />](https://www.youtube.com/watch?v=xvFZjo5PgG0) (warning: do not click)
 
