@@ -59,16 +59,16 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
-  - Rankle (see above)
+  - Rankle (see above) (hoping to close up this project in a passably finished state this year)
   - Impossible Puzzles (see above)
   
 </details>
 <details>
 <summary>PLANS & IDEAS</summary>
 
-  - Repository to keep track of solved Leetcode/Hackerrank problems
+  - ~~Repository to keep track of solved Leetcode/Hackerrank problems~~ (nah)
   - "Jabberwockle" - Wordle, but the word to guess has some of its letters swapped out
-  - Personal website to build an interactive version of this page
+  - Personal website to build an interactive version of this page **Now In Progress!**
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
   
   
@@ -77,8 +77,8 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   - ~~Web app: Interactive Königsberg Bridges Map - build your own bridges and try solve it~~ **Now [Impossible Puzzles](https://github.com/br-Chan/Impossible-Puzzles)!**
   - Java/C/other: Adjective orderer - automatically sorts a list of adjectives in the proper order based on their type (quantity, size, age, shape, colour, etc)
   - Web app: Pokemon but you catch days of the year instead - can only 'catch' today's date, and you win once you get all 366 days (can add a countdown timer, friends/trading system, etc)
-  - Java: Random trolley problem generator
-  - Spotify random song recommender - a way to use the Spotify Web API
+  - Random trolley problem generator
+  - Something that uses the Spotify Web API
 </details>
 
 ## DOING
@@ -93,6 +93,7 @@ Typing:
 
 The Battle of Polytopia:
 - In-game ELO: 1500
+- I also contribute to the [Polytopia Damage Calculator](https://polytopia-damage-calculator.firebaseapp.com/) ([GitHub](https://github.com/amigobrewbrew/polytopiacalculatorfirebase-public)). Contributions welcome.
 
 WDCC: I'm a software developer in a software project at WDCC! Check out what we're up to [here](https://github.com/UoaWDCC/uabc-web).
 
