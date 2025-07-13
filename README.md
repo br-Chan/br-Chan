@@ -7,34 +7,7 @@
 [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt='linkedin' height='40' />](https://www.linkedin.com/in/brandon-sh-chan/)
 [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt='youtube' height='40' />](https://www.youtube.com/@br-Chan-g5l)
 
-I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doing) things - usually all 3 at once.
-
-## LEARNING
-<details>
-<summary>LANGUAGES AND TOOLS</summary>
-
-  | Learned       | Learning                  |
-  | ------------- |:-------------------------:|
-  | Java          | Everything on the left :) |
-  | C/C++         | Vue                       |
-  | MATLAB        | SQL                       |
-  | JavaScript    |       |
-  | TypeScript    |       |
-  | React         |       |
-  | Next.js       |       |
-  | Tailwind CSS  |       |
-  | Angular       |       |
-  | Firebase      |       |
-
-</details>
-<details>
-<summary>CURRENT UNIVERSITY COURSES</summary>
-
-- ENGGEN 303 | Innovation and Business Cases
-- SOFTENG 351 | Fundamentals of Database Systems
-- SOFTENG 370 | Operating Systems
-- SOFTENG 373 | Computer Graphics and Image Processing
-</details>
+I love [**Creating**](#creating), [**Learning**](#learning) and [**Doing**](#doing) things - usually all 3 at once.
 
 ## CREATING
 <details open>
@@ -64,6 +37,34 @@ I love [**Learning**](#learning), [**Creating**](#creating) and [**Doing**](#doi
   
 </details>
 <details>
+
+## LEARNING
+<details>
+<summary>LANGUAGES AND TOOLS</summary>
+
+  | Learned       | Learning                  |
+  | ------------- |:-------------------------:|
+  | Java          | Everything on the left :) |
+  | C/C++         | Vue                       |
+  | MATLAB        | SQL                       |
+  | JavaScript    |       |
+  | TypeScript    |       |
+  | React         |       |
+  | Next.js       |       |
+  | Tailwind CSS  |       |
+  | Angular       |       |
+  | Firebase      |       |
+
+</details>
+<details>
+<summary>CURRENT UNIVERSITY COURSES</summary>
+
+- ENGGEN 303 | Innovation and Business Cases
+- SOFTENG 351 | Fundamentals of Database Systems
+- SOFTENG 370 | Operating Systems
+- SOFTENG 373 | Computer Graphics and Image Processing
+</details>
+
 <summary>PLANS & IDEAS</summary>
 
   - ~~Repository to keep track of solved Leetcode/Hackerrank problems~~ (nah)
