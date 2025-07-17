@@ -7,13 +7,16 @@
 [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt='linkedin' height='40' />](https://www.linkedin.com/in/brandon-sh-chan/)
 [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt='youtube' height='40' />](https://www.youtube.com/@br-Chan-g5l)
 
+Visit a better version of this README.md on my website: [br-chan.github.io/](https://br-chan.github.io/)
+
 I love [**Creating**](#creating), [**Learning**](#learning) and [**Doing**](#doing) things - usually all 3 at once.
 
 ## CREATING
 <details open>
 <summary>PROJECTS</summary>
 
-  - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Firebase
+  - [Personal website](https://github.com/br-Chan/br-chan.github.io) | React, Tanstack Router, Tailwind CSS, Shadcn
+  - [Rankle](https://github.com/br-Chan/Rankle) | Next.js, TypeScript, Tailwind CSS, Firebase
   - [Impossible Puzzles](https://github.com/br-Chan/Impossible-Puzzles) | Vue, TypeScript, CSS, HTML
   - [The Missing Dollar Mystery](https://github.com/br-Chan/Missing-Dollar-Mystery-with-GPT) (a private investigation game) | Java, JavaFX, OpenAI API
 
@@ -32,6 +35,7 @@ I love [**Creating**](#creating), [**Learning**](#learning) and [**Doing**](#doi
 <details open>
 <summary>CURRENT PROJECTS</summary>
 
+  - Personal website (deployed!)
   - Rankle (see above) (hoping to close up this project in a passably finished state this year)
   - Impossible Puzzles (see above)
   
