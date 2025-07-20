@@ -73,7 +73,7 @@ I love [**Creating**](#creating), [**Learning**](#learning) and [**Doing**](#doi
 
   - ~~Repository to keep track of solved Leetcode/Hackerrank problems~~ (nah)
   - "Jabberwockle" - Wordle, but the word to guess has some of its letters swapped out
-  - Personal website to build an interactive version of this page **Now In Progress!**
+  - ~~Personal website to build an interactive version of this page~~ **Now [deployed](https://github.com/br-Chan/br-chan.github.io)!**
   - [Task Time](https://github.com/br-Chan/Task-Time "Currently learning the tools and skills needed for this project") | Next.js
   
   
